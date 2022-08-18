@@ -2,9 +2,9 @@
 
 ## Workshop OUTLINES
 
-- [Introduction](https://github.com/saeed-saffari/)
+- [Introduction](https://github.com/saeed-saffari/Intro-Py-for-Econ-workshop-Sum2022/blob/main/Lectures/Intro%20Py%20for%20Econ%20UT%20Workshop%20Sum%202022.pdf)
 - Python Setup
-- [Object and Data Structure Basics](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
+- [Object and Data Structure Basics](https://github.com/saeed-saffari//Intro-Py-for-Econ-workshop-Sum2022/blob/main/Lectures/1.%20Introduction%20to%20Python%20(Data%20Structure).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari//Intro-Py-for-Econ-workshop-Sum2022/blob/main/Lectures/1.%20Introduction%20to%20Python%20(Data%20Structure).ipynb)
 
 - [Python Statements and Functions](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
 
