@@ -19,7 +19,7 @@
 - [Projects*](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
 
 ## Exercises
-- [Exercise 01 (Python Basic)]()
+- [Exercise 01 (Python Basic)](https://drive.google.com/file/d/1A9SAMFEcI3pgq9ikNMyAQ2Fw_LJ9RtJe/view?usp=sharing)
 - [Exercise 02 (Loops and Functions)]()
 - [Exercise 03 (Numpy and Matplotlib)]()
 - [Exercise 04 (Pandas 01 & 02)]()
