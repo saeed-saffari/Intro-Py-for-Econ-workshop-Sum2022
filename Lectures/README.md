@@ -6,9 +6,9 @@
 - Python Setup
 - [Object and Data Structure Basics](https://github.com/saeed-saffari//Intro-Py-for-Econ-workshop-Sum2022/blob/main/Lectures/1.%20Introduction%20to%20Python%20(Data%20Structure).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari//Intro-Py-for-Econ-workshop-Sum2022/blob/main/Lectures/1.%20Introduction%20to%20Python%20(Data%20Structure).ipynb)
 
-- [Python Statements (Control flow (Loops))](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
+- [Python Statements (Control flow (Loops))](https://github.com/saeed-saffari/Intro-Py-for-Econ-workshop-Sum2022/blob/main/Lectures/2.%20Control%20flow%20(Loops).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Intro-Py-for-Econ-workshop-Sum2022/blob/main/Lectures/2.%20Control%20flow%20(Loops).ipynb)
 
-- [Functions](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
+- [Functions](https://github.com/saeed-saffari/Intro-Py-for-Econ-workshop-Sum2022/blob/main/Lectures/3.%20Functions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Intro-Py-for-Econ-workshop-Sum2022/blob/main/Lectures/3.%20Functions.ipynb)
 
 - Packages:
   - [Numpy](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
