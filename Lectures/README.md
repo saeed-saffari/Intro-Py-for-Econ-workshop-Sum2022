@@ -22,7 +22,7 @@
 
 ## Exercises
 - [Exercise 01 (Python Basic)](https://drive.google.com/file/d/1A9SAMFEcI3pgq9ikNMyAQ2Fw_LJ9RtJe/view?usp=sharing)
-- [Exercise 02 (Loops and Functions)]()
+- [Exercise 02 (Loops and Functions)](https://drive.google.com/file/d/1VtGpjFwMDMl2J5lJJXZAyL-8vyhMj8Ut/view?usp=sharing)
 - [Exercise 03 (Numpy and Matplotlib)]()
 - [Exercise 04 (Pandas 01 & 02)]()
 - [Exercise 05 (Pandas 03)]()
