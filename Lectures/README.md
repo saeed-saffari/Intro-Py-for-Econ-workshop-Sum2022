@@ -11,8 +11,8 @@
 - [Functions](https://github.com/saeed-saffari/Intro-Py-for-Econ-workshop-Sum2022/blob/main/Lectures/3.%20Functions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Intro-Py-for-Econ-workshop-Sum2022/blob/main/Lectures/3.%20Functions.ipynb)
 
 - Packages:
-  - [Numpy](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
-  - [Matplotlib](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
+  - [Numpy](https://github.com/saeed-saffari/Intro-Py-for-Econ-workshop-Sum2022/blob/main/Lectures/4.%20NumPy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Intro-Py-for-Econ-workshop-Sum2022/blob/main/Lectures/4.%20NumPy.ipynb)
+  - [Matplotlib](https://github.com/saeed-saffari/Intro-Py-for-Econ-workshop-Sum2022/blob/main/Lectures/5.%20Matplotlib.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Intro-Py-for-Econ-workshop-Sum2022/blob/main/Lectures/5.%20Matplotlib.ipynb)
   - [Pandas (part 01)](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
   - [Pandas (part 02)](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
   - [Pandas (part 03)](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
