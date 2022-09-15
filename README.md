@@ -14,3 +14,4 @@ This repository contains the contents of the "Python for Economics" workshop at 
 -  Ask Questions by sending an email to:  m.saeed.saffari@gmail.com
 - [Send Exercises](https://docs.google.com/forms/d/e/1FAIpQLSfWzgx_x9chTzbObPIhWT-I_CMTvqsgn62TKqEqjWVZGW1pNQ/viewform?usp=sf_link) (Only send files in **ipynb format** and the name of the files must include the **Exercise number** and **your Name**. (Like: "Exercise_1-Saeed Saffari.ipynb"))
 - Access [link](https://drive.google.com/drive/folders/1G7wstnjxu6TssfdNKrxXwhBn4DjJaBNc?usp=sharing) to workshop videos (send the request to get access.)
+- [Final Workshop Survey](https://docs.google.com/forms/d/e/1FAIpQLSeMywWwLDA25I8r1tWHW5qbiYAclHXTL3Nc3qKuEqDVsv23nQ/viewform?usp=sf_link)
